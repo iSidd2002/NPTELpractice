@@ -1,0 +1,228 @@
+{
+  "id": "assignment_1",
+  "title": "Understanding the Foundations of Enterprise Risk Management",
+  "dueDate": "2025-03-25T00:00:00+05:30",
+  "submittedOn": "2025-03-22T15:25:00+05:30",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the primary objective of Enterprise Risk Management (ERM)?",
+      "options": [
+        "Maximizing profits",
+        "Reducing operational costs",
+        "Identifying, assessing, and managing risks holistically",
+        "Eliminating all risks"
+      ],
+      "correctAnswer": "Identifying, assessing, and managing risks holistically"
+    },
+    {
+      "id": 2,
+      "text": "Which framework is widely used for ERM implementation?",
+      "options": [
+        "COSO ERM",
+        "Six Sigma",
+        "Lean Management",
+        "Agile Methodology"
+      ],
+      "correctAnswer": "COSO ERM"
+    },
+    {
+      "id": 3,
+      "text": "What does ISO 31000 primarily focus on?",
+      "options": [
+        "Financial auditing",
+        "Risk management guidelines",
+        "Data security",
+        "IT governance"
+      ],
+      "correctAnswer": "Risk management guidelines"
+    },
+    {
+      "id": 4,
+      "text": "How do ERM frameworks help organizations?",
+      "options": [
+        "By eliminating risks completely",
+        "By ensuring 100% compliance with regulations",
+        "By providing a structured approach to identifying and managing risks",
+        "By reducing employee turnover"
+      ],
+      "correctAnswer": "By providing a structured approach to identifying and managing risks"
+    },
+    {
+      "id": 5,
+      "text": "Which technique is commonly used to identify risks in an organization?",
+      "options": [
+        "SWOT analysis",
+        "Lean Six Sigma",
+        "Business Process Reengineering",
+        "Just-in-Time manufacturing"
+      ],
+      "correctAnswer": "SWOT analysis"
+    },
+    {
+      "id": 6,
+      "text": "What type of risk is associated with changes in government regulations?",
+      "options": [
+        "Financial risk",
+        "Operational risk",
+        "Compliance risk",
+        "Strategic risk"
+      ],
+      "correctAnswer": "Compliance risk"
+    },
+    {
+      "id": 7,
+      "text": "Which of the following is NOT a risk mitigation strategy?",
+      "options": [
+        "Risk avoidance",
+        "Risk reduction",
+        "Risk elimination",
+        "Risk sharing"
+      ],
+      "correctAnswer": "Risk elimination"
+    },
+    {
+      "id": 8,
+      "text": "A contingency plan is designed to:",
+      "options": [
+        "Increase revenue",
+        "Provide a backup strategy in case a risk materializes",
+        "Completely eliminate risks",
+        "Identify business opportunities"
+      ],
+      "correctAnswer": "Provide a backup strategy in case a risk materializes"
+    },
+    {
+      "id": 9,
+      "text": "Who is primarily responsible for overseeing ERM implementation?",
+      "options": [
+        "Mid-level managers",
+        "Board of Directors and C-suite executives",
+        "Entry-level employees",
+        "External consultants"
+      ],
+      "correctAnswer": "External consultants"
+    },
+    {
+      "id": 10,
+      "text": "Which of the following helps create a risk-aware culture?",
+      "options": [
+        "Avoiding risk discussions in meetings",
+        "Encouraging open communication about risks",
+        "Assigning all risk management to one department",
+        "Ignoring low-probability risks"
+      ],
+      "correctAnswer": "Encouraging open communication about risks"
+    },
+    {
+      "id": 11,
+      "text": "How does ERM relate to corporate governance?",
+      "options": [
+        "ERM ensures compliance with regulations and ethical practices",
+        "ERM replaces the need for governance policies",
+        "Corporate governance is a subset of ERM",
+        "ERM only applies to financial risks"
+      ],
+      "correctAnswer": "ERM ensures compliance with regulations and ethical practices"
+    },
+    {
+      "id": 12,
+      "text": "Which of the following is an example of financial risk?",
+      "options": [
+        "Data security breaches",
+        "Market fluctuations affecting investment returns",
+        "Workplace safety hazards",
+        "Employee turnover"
+      ],
+      "correctAnswer": "Market fluctuations affecting investment returns"
+    },
+    {
+      "id": 13,
+      "text": "Which ERM approach is commonly used for supply chain risk management?",
+      "options": [
+        "Redundancy planning",
+        "Ignoring minor risks",
+        "Focusing only on domestic suppliers",
+        "Eliminating supplier contracts"
+      ],
+      "correctAnswer": "Redundancy planning"
+    },
+    {
+      "id": 14,
+      "text": "How can organizations mitigate cybersecurity risks?",
+      "options": [
+        "Ignoring minor security threats",
+        "Regular security audits and employee training",
+        "Relying only on basic antivirus software",
+        "Eliminating all internet access in the workplace"
+      ],
+      "correctAnswer": "Regular security audits and employee training"
+    },
+    {
+      "id": 15,
+      "text": "Why is risk reporting important?",
+      "options": [
+        "It ensures employees never take risks",
+        "It provides stakeholders with transparency on risks and mitigation efforts",
+        "It eliminates the need for audits",
+        "It replaces financial reporting requirements"
+      ],
+      "correctAnswer": "It provides stakeholders with transparency on risks and mitigation efforts"
+    },
+    {
+      "id": 16,
+      "text": "What is one major challenge in global risk communication?",
+      "options": [
+        "Over-reliance on AI",
+        "Cultural and language differences",
+        "Too many employees in risk departments",
+        "Ignoring low-priority risks"
+      ],
+      "correctAnswer": "Cultural and language differences"
+    },
+    {
+      "id": 17,
+      "text": "How does AI impact ERM?",
+      "options": [
+        "It increases risk exposure",
+        "It enhances predictive analytics and automation",
+        "It replaces human decision-making entirely",
+        "It has no impact on ERM"
+      ],
+      "correctAnswer": "It enhances predictive analytics and automation"
+    },
+    {
+      "id": 18,
+      "text": "What does ESG stand for in risk management?",
+      "options": [
+        "Economic, Social, and Growth",
+        "Environmental, Social, and Governance",
+        "Enterprise, Strategy, and Growth",
+        "Equity, Sustainability, and Governance"
+      ],
+      "correctAnswer": "Environmental, Social, and Governance"
+    },
+    {
+      "id": 19,
+      "text": "Why is geopolitical risk important for multinational organizations?",
+      "options": [
+        "It influences supply chain stability and regulatory compliance",
+        "It only affects government agencies",
+        "It is irrelevant to corporate risk management",
+        "It only applies to financial markets"
+      ],
+      "correctAnswer": "It influences supply chain stability and regulatory compliance"
+    },
+    {
+      "id": 20,
+      "text": "Which of the following is a future trend in ERM?",
+      "options": [
+        "Reduced use of AI in risk analysis",
+        "Increased focus on resilience and proactive risk management",
+        "Elimination of ERM frameworks",
+        "Risk management will no longer be required by regulations"
+      ],
+      "correctAnswer": "Increased focus on resilience and proactive risk management"
+    }
+  ]
+}

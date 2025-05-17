@@ -1,0 +1,228 @@
+{
+  "id": "assignment_7",
+  "title": "Continuous Risk Monitoring and Reporting for Organizational Resilience",
+  "dueDate": "2025-05-12T23:59:00+05:30",
+  "submittedOn": "2025-05-11T22:19:00+05:30",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the main difference between continuous risk monitoring and traditional risk management approaches?",
+      "options": [
+        "Continuous monitoring is less resource-intensive",
+        "Traditional approaches provide more accurate risk assessments",
+        "Continuous monitoring establishes an ongoing process rather than providing point-in-time snapshots",
+        "Traditional approaches are more adaptable to emerging threats"
+      ],
+      "correctAnswer": "Continuous monitoring establishes an ongoing process rather than providing point-in-time snapshots"
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is NOT identified as a benefit of early risk detection through continuous monitoring?",
+      "options": [
+        "Intervention before risks materialize into significant issues",
+        "Reduction in potential impact of risks",
+        "Transformation of risk management from reactive to proactive discipline",
+        "Elimination of the need for risk mitigation strategies"
+      ],
+      "correctAnswer": "Elimination of the need for risk mitigation strategies"
+    },
+    {
+      "id": 3,
+      "text": "In continuous risk monitoring, Key Risk Indicators (KRIs) serve as:",
+      "options": [
+        "Performance evaluation metrics for risk management staff",
+        "Early warning signals when approaching predefined thresholds",
+        "Legal requirements for regulatory compliance",
+        "Fixed parameters that rarely need adjustment"
+      ],
+      "correctAnswer": "Early warning signals when approaching predefined thresholds"
+    },
+    {
+      "id": 4,
+      "text": "Which technology can identify patterns and anomalies in risk data that would be impossible for humans to detect manually?",
+      "options": [
+        "Blockchain",
+        "Internet of Things (IoT)",
+        "Artificial Intelligence and Machine Learning",
+        "Big Data storage systems"
+      ],
+      "correctAnswer": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "id": 5,
+      "text": "Blockchain technology is particularly valuable for monitoring risks related to:",
+      "options": [
+        "Weather patterns and natural disasters",
+        "Customer satisfaction and brand loyalty",
+        "Market trends and competitive positioning",
+        "Fraud, data integrity, and cybersecurity"
+      ],
+      "correctAnswer": "Fraud, data integrity, and cybersecurity"
+    },
+    {
+      "id": 6,
+      "text": "When selecting Key Risk Indicators (KRIs), which characteristic is most important for enabling preventive action?",
+      "options": [
+        "Integration with existing business metrics",
+        "Forward-looking and timely insights",
+        "Cost-effectiveness of data collection",
+        "Alignment with industry standards"
+      ],
+      "correctAnswer": "Forward-looking and timely insights"
+    },
+    {
+      "id": 7,
+      "text": "Which type of KRI would track metrics like liquidity ratios, debt levels, and cash flow?",
+      "options": [
+        "Operational KRIs",
+        "Cybersecurity KRIs",
+        "Financial KRIs",
+        "Reputational KRIs"
+      ],
+      "correctAnswer": "Financial KRIs"
+    },
+    {
+      "id": 8,
+      "text": "What is risk appetite in the context of strategic decision-making?",
+      "options": [
+        "The organization's eagerness to take on new business ventures",
+        "The maximum amount of financial loss an organization can sustain",
+        "The amount and type of risk an organization is willing to accept in pursuit of objectives",
+        "The rate at which an organization implements risk mitigation measures"
+      ],
+      "correctAnswer": "The amount and type of risk an organization is willing to accept in pursuit of objectives"
+    },
+    {
+      "id": 9,
+      "text": "What is a primary benefit of integrating risk monitoring with scenario planning?",
+      "options": [
+        "It eliminates the need for contingency planning",
+        "It helps leaders prepare for a range of possible outcomes",
+        "It guarantees accurate prediction of future events",
+        "It reduces the complexity of strategic planning"
+      ],
+      "correctAnswer": "It helps leaders prepare for a range of possible outcomes"
+    },
+    {
+      "id": 10,
+      "text": "Effective immediate response protocols in risk response plans:",
+      "options": [
+        "Focus primarily on long-term risk reduction",
+        "Are designed exclusively for senior management use",
+        "Reduce response time and ensure consistent handling of similar risks",
+        "Generally replace the need for business continuity planning"
+      ],
+      "correctAnswer": "Reduce response time and ensure consistent handling of similar risks"
+    },
+    {
+      "id": 11,
+      "text": "Impact minimization strategies acknowledge that:",
+      "options": [
+        "All risks can be prevented with proper planning",
+        "Not all risks can be prevented, making resilience equally important as prevention",
+        "Financial impacts are more important than operational impacts",
+        "Risk responses always unfold exactly as planned"
+      ],
+      "correctAnswer": "Not all risks can be prevented, making resilience equally important as prevention"
+    },
+    {
+      "id": 12,
+      "text": "When communicating risks across stakeholder groups, which approach is recommended?",
+      "options": [
+        "Providing identical information to all stakeholders for consistency",
+        "Limiting risk information to senior management only",
+        "Tailoring communication to meet diverse stakeholder needs",
+        "Focusing primarily on negative risk developments"
+      ],
+      "correctAnswer": "Tailoring communication to meet diverse stakeholder needs"
+    },
+    {
+      "id": 13,
+      "text": "Which statement about transparent risk communication is most accurate?",
+      "options": [
+        "It should conceal uncertainties to avoid alarming stakeholders",
+        "It builds trust with both internal and external stakeholders",
+        "It should focus exclusively on positive risk developments",
+        "It is primarily important for external stakeholders"
+      ],
+      "correctAnswer": "It builds trust with both internal and external stakeholders"
+    },
+    {
+      "id": 14,
+      "text": "How does continuous risk monitoring contribute to business continuity?",
+      "options": [
+        "By eliminating the need for formal business continuity plans",
+        "By ensuring continuity plans remain relevant and up-to-date",
+        "By focusing exclusively on preventive measures",
+        "By replacing traditional disaster recovery processes"
+      ],
+      "correctAnswer": "By ensuring continuity plans remain relevant and up-to-date"
+    },
+    {
+      "id": 15,
+      "text": "What is organizational resilience in the context of risk management?",
+      "options": [
+        "The ability to eliminate all potential risks",
+        "The ability to anticipate, prepare for, respond to, and adapt to changes and disruptions",
+        "The capacity to maintain operations without any modifications",
+        "The implementation of insurance policies to cover all potential losses"
+      ],
+      "correctAnswer": "The ability to anticipate, prepare for, respond to, and adapt to changes and disruptions"
+    },
+    {
+      "id": 16,
+      "text": "Which of the following is NOT mentioned as a component of a risk reporting framework?",
+      "options": [
+        "Standardized risk",
+        "Clear reporting structures",
+        "Mandatory daily reporting for all risk categories",
+        "Appropriate timing and frequency for various risk categories"
+      ],
+      "correctAnswer": "Mandatory daily reporting for all risk categories"
+    },
+    {
+      "id": 17,
+      "text": "In highly resilient organizations, risk awareness is:",
+      "options": [
+        "Limited to specialized risk management departments",
+        "A periodic exercise conducted during annual reviews",
+        "Embedded throughout the organizational culture",
+        "Primarily the responsibility of senior executives"
+      ],
+      "correctAnswer": "Embedded throughout the organizational culture"
+    },
+    {
+      "id": 18,
+      "text": "What is the relationship between continuous monitoring and organizational learning?",
+      "options": [
+        "Continuous monitoring replaces the need for organizational learning",
+        "Organizational learning happens independently of monitoring processes",
+        "Continuous monitoring creates a feedback loop that enables organizational learning",
+        "Organizational learning is only relevant for high-risk industries"
+      ],
+      "correctAnswer": "Continuous monitoring creates a feedback loop that enables organizational learning"
+    },
+    {
+      "id": 19,
+      "text": "Which risk reporting tool provides up-to-date visualizations of an organization's risk status?",
+      "options": [
+        "Annual risk assessment reports",
+        "Real-time dashboards",
+        "Traditional risk registers",
+        "Quarterly board presentations"
+      ],
+      "correctAnswer": "Real-time dashboards"
+    },
+    {
+      "id": 20,
+      "text": "IoT (Internet of Things) technologies are particularly valuable for monitoring:",
+      "options": [
+        "Strategic risks",
+        "Physical and operational risks",
+        "Financial risks",
+        "Reputational risks"
+      ],
+      "correctAnswer": "Physical and operational risks"
+    }
+  ]
+}

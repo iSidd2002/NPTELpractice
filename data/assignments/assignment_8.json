@@ -1,0 +1,228 @@
+{
+  "id": "assignment_8",
+  "title": "Integrating ERM with Strategic Planning and Organizational Decision-Making",
+  "dueDate": "2025-05-12T23:59:00+05:30",
+  "submittedOn": "2025-05-11T22:20:00+05:30",
+  "questions": [
+    {
+      "id": 1,
+      "text": "According to the study material, what percentage of strategic failures stem from execution challenges that could have been identified through robust risk assessment?",
+      "options": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "correctAnswer": "70%"
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is NOT mentioned as a mechanism through which ERM enhances strategic planning?",
+      "options": [
+        "Providing a structured approach to identifying strategic risks",
+        "Facilitating scenario planning",
+        "Creating a common risk language",
+        "Eliminating all potential risks"
+      ],
+      "correctAnswer": "Eliminating all potential risks"
+    },
+    {
+      "id": 3,
+      "text": "According to research from the Risk Management Society, organizations with mature ERM programs achieve what percentage higher market valuations than peers with less developed risk management capabilities?",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "correctAnswer": "25%"
+    },
+    {
+      "id": 4,
+      "text": "Which of the following is described as a powerful alignment mechanism for ERM and organizational objectives?",
+      "options": [
+        "Quarterly financial reporting",
+        "Performance metrics",
+        "Customer feedback",
+        "Competitor analysis"
+      ],
+      "correctAnswer": "Performance metrics"
+    },
+    {
+      "id": 5,
+      "text": "In the context of risk appetite, what does \"risk tolerance\" refer to?",
+      "options": [
+        "The total amount of risk an organization is willing to accept",
+        "The acceptable variation around specific objectives",
+        "The minimum level of risk necessary for growth",
+        "The maximum risk permitted by regulatory authorities"
+      ],
+      "correctAnswer": "The acceptable variation around specific objectives"
+    },
+    {
+      "id": 6,
+      "text": "When evaluating potential acquisitions using risk parameters, what should executives compare?",
+      "options": [
+        "Historical performance vs. projected growth",
+        "Projected risk exposures against established appetites",
+        "Market share vs. competitor positions",
+        "Current leadership vs. potential new management"
+      ],
+      "correctAnswer": "Projected risk exposures against established appetites"
+    },
+    {
+      "id": 7,
+      "text": "What is described as a critical intersection between risk management and resource distribution?",
+      "options": [
+        "Operational budgeting",
+        "Capital allocation",
+        "Strategic reserves",
+        "Performance measurement"
+      ],
+      "correctAnswer": "Capital allocation"
+    },
+    {
+      "id": 8,
+      "text": "Which risk-adjusted metric is mentioned as a way to evaluate investment opportunities?",
+      "options": [
+        "Return on Investment (ROI)",
+        "Earnings Before Interest and Taxes (EBIT)",
+        "Risk-Adjusted Return on Capital (RAROC)",
+        "Gross Margin Percentage"
+      ],
+      "correctAnswer": "Risk-Adjusted Return on Capital (RAROC)"
+    },
+    {
+      "id": 9,
+      "text": "What type of risk assessment focuses specifically on high-impact, low-probability events that could threaten organizational viability?",
+      "options": [
+        "Business impact analysis",
+        "Crisis vulnerability analysis",
+        "Strategic risk assessment",
+        "Operational risk review"
+      ],
+      "correctAnswer": "Crisis vulnerability analysis"
+    },
+    {
+      "id": 10,
+      "text": "According to the text, what did the COVID-19 pandemic demonstrate?",
+      "options": [
+        "The impossibility of preparing for certain types of risks",
+        "The value of ERM-enhanced crisis management",
+        "The ineffectiveness of traditional risk management approaches",
+        "The need to focus exclusively on financial risks"
+      ],
+      "correctAnswer": "The value of ERM-enhanced crisis management"
+    },
+    {
+      "id": 11,
+      "text": "What is described as a critical communication challenge in risk reporting?",
+      "options": [
+        "Technical terminology",
+        "Risk aggregation",
+        "Timing considerations",
+        "Visual representations"
+      ],
+      "correctAnswer": "Risk aggregation"
+    },
+    {
+      "id": 12,
+      "text": "Which approach to risk communication is characterized by creating feedback loops where recipients can request clarification or contribute insights?",
+      "options": [
+        "Unidirectional communication",
+        "Bidirectional communication",
+        "Broadcast communication",
+        "Directive communication"
+      ],
+      "correctAnswer": "Bidirectional communication"
+    },
+    {
+      "id": 13,
+      "text": "What problem can arise when performance management focuses exclusively on achievement targets without consideration of risk?",
+      "options": [
+        "Excessive conservatism",
+        "Unrealistic goal-setting",
+        "Excessive risk-taking",
+        "Employee burnout"
+      ],
+      "correctAnswer": "Excessive risk-taking"
+    },
+    {
+      "id": 14,
+      "text": "Which of the following is NOT mentioned as a risk-adjusted performance metric?",
+      "options": [
+        "Risk-adjusted return on capital",
+        "Quality-adjusted output",
+        "Customer retention-weighted sales figures",
+        "Risk-adjusted market share"
+      ],
+      "correctAnswer": "Risk-adjusted market share"
+    },
+    {
+      "id": 15,
+      "text": "What is the primary purpose of integrating Key Risk Indicators (KRIs) with Key Performance Indicators (KPIs)?",
+      "options": [
+        "To simplify performance reporting",
+        "To provide a more comprehensive view of organizational health",
+        "To meet regulatory requirements",
+        "To reduce the number of metrics being tracked"
+      ],
+      "correctAnswer": "To provide a more comprehensive view of organizational health"
+    },
+    {
+      "id": 16,
+      "text": "Which of the following is described as a particularly sensitive integration point between risk and performance?",
+      "options": [
+        "Job descriptions",
+        "Compensation structures",
+        "Reporting relationships",
+        "Team composition"
+      ],
+      "correctAnswer": "Compensation structures"
+    },
+    {
+      "id": 17,
+      "text": "According to the text, risk ownership in organizations with mature risk cultures typically follows what model?",
+      "options": [
+        "Two-lines model",
+        "Three-lines model",
+        "Four-lines model",
+        "Matrix model"
+      ],
+      "correctAnswer": "Three-lines model"
+    },
+    {
+      "id": 18,
+      "text": "Which of the following is NOT mentioned as a way to reinforce risk awareness in an organization?",
+      "options": [
+        "Recognition systems",
+        "Continuous improvement approaches",
+        "Punitive measures for all errors",
+        "Leadership commitment"
+      ],
+      "correctAnswer": "Punitive measures for all errors"
+    },
+    {
+      "id": 19,
+      "text": "What is described as essential for sustaining progress in risk culture development despite being challenging?",
+      "options": [
+        "Measurement",
+        "Outsourcing",
+        "Restructuring",
+        "Centralization"
+      ],
+      "correctAnswer": "Measurement"
+    },
+    {
+      "id": 20,
+      "text": "Which of the following is described as a cultural cornerstone of risk-aware organizations?",
+      "options": [
+        "Centralized decision-making",
+        "Risk ownership clarity",
+        "Minimal documentation",
+        "Separation of business and risk functions"
+      ],
+      "correctAnswer": "Risk ownership clarity"
+    }
+  ]
+}

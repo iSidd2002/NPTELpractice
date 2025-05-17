@@ -1,0 +1,228 @@
+{
+  "id": "assignment_4",
+  "title": "Techniques for Comprehensive Risk Identification and Documentation",
+  "dueDate": "2025-05-12T23:59:00+05:30",
+  "submittedOn": "2025-05-11T22:16:00+05:30",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the primary goal of risk identification?",
+      "options": [
+        "To eliminate all risks",
+        "To recognize potential risks before they impact the organization",
+        "To assign blame for risks",
+        "To avoid making risk management decisions"
+      ],
+      "correctAnswer": "To recognize potential risks before they impact the organization"
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is NOT a type of risk?",
+      "options": [
+        "Strategic",
+        "Operational",
+        "Environmental",
+        "Financial"
+      ],
+      "correctAnswer": "Environmental"
+    },
+    {
+      "id": 3,
+      "text": "What is the role of leadership in risk identification?",
+      "options": [
+        "Ignoring risks until they become serious",
+        "Encouraging a culture of risk awareness and proactive identification",
+        "Delegating risk identification to external consultants only",
+        "Avoiding risk discussions in strategic meetings"
+      ],
+      "correctAnswer": "Encouraging a culture of risk awareness and proactive identification"
+    },
+    {
+      "id": 4,
+      "text": "Why is documenting identified risks important?",
+      "options": [
+        "It helps in tracking and analyzing risk trends",
+        "It prevents risks from occurring",
+        "It eliminates risks permanently",
+        "It is only useful for compliance purposes"
+      ],
+      "correctAnswer": "It helps in tracking and analyzing risk trends"
+    },
+    {
+      "id": 5,
+      "text": "What does a Probability and Impact Matrix measure?",
+      "options": [
+        "The likelihood and severity of a risk",
+        "The financial cost of risk",
+        "The duration of a risk event",
+        "The probability of a company failing"
+      ],
+      "correctAnswer": "The likelihood and severity of a risk"
+    },
+    {
+      "id": 6,
+      "text": "Which risk assessment technique uses random simulations to predict possible outcomes?",
+      "options": [
+        "Failure Mode and Effects Analysis (FMEA)",
+        "Root Cause Analysis",
+        "Monte Carlo Simulation",
+        "Risk Register"
+      ],
+      "correctAnswer": "Monte Carlo Simulation"
+    },
+    {
+      "id": 7,
+      "text": "What is the primary objective of Failure Mode and Effects Analysis (FMEA)?",
+      "options": [
+        "To identify and mitigate potential failures in a process",
+        "To eliminate human errors",
+        "To increase operational costs",
+        "To improve cybersecurity"
+      ],
+      "correctAnswer": "To identify and mitigate potential failures in a process"
+    },
+    {
+      "id": 8,
+      "text": "What is a key component of a risk register?",
+      "options": [
+        "Risk owner",
+        "Stock price",
+        "Customer feedback",
+        "Marketing strategy"
+      ],
+      "correctAnswer": "Risk owner"
+    },
+    {
+      "id": 9,
+      "text": "Why should risk registers be updated regularly?",
+      "options": [
+        "To ensure risks are accurately tracked and managed",
+        "To increase the number of risks documented",
+        "To impress auditors",
+        "To eliminate risks completely"
+      ],
+      "correctAnswer": "To ensure risks are accurately tracked and managed"
+    },
+    {
+      "id": 10,
+      "text": "Which tool is commonly used for prioritizing risks in a risk register?",
+      "options": [
+        "Risk Matrix",
+        "Brainstorming",
+        "Customer survey",
+        "Internal audit"
+      ],
+      "correctAnswer": "Risk Matrix"
+    },
+    {
+      "id": 11,
+      "text": "What is a common mistake in risk documentation?",
+      "options": [
+        "Updating the register too frequently",
+        "Not specifying a risk owner",
+        "Using too much technical jargon",
+        "Identifying too many risks"
+      ],
+      "correctAnswer": "Not specifying a risk owner"
+    },
+    {
+      "id": 12,
+      "text": "What is the purpose of a risk heat map?",
+      "options": [
+        "To visualize risk severity and likelihood",
+        "To predict financial trends",
+        "To assess legal compliance",
+        "To measure stakeholder engagement"
+      ],
+      "correctAnswer": "To visualize risk severity and likelihood"
+    },
+    {
+      "id": 13,
+      "text": "Which risk visualization technique focuses on understanding how risks evolve and can be mitigated?",
+      "options": [
+        "Bowtie Analysis",
+        "Pareto Chart",
+        "Fishbone Diagram",
+        "Benchmarking"
+      ],
+      "correctAnswer": "Bowtie Analysis"
+    },
+    {
+      "id": 14,
+      "text": "Which risk visualization tool provides real-time tracking and reporting?",
+      "options": [
+        "Risk dashboards",
+        "Risk matrix",
+        "Stakeholder map",
+        "Checklists"
+      ],
+      "correctAnswer": "Risk dashboards"
+    },
+    {
+      "id": 15,
+      "text": "Geographical risk mapping is especially useful for identifying:",
+      "options": [
+        "Location-based risks",
+        "Employee performance issues",
+        "Legal risks in contracts",
+        "Consumer trends"
+      ],
+      "correctAnswer": "Location-based risks"
+    },
+    {
+      "id": 16,
+      "text": "Who among the following is considered an external stakeholder in risk management?",
+      "options": [
+        "Employees",
+        "IT department",
+        "Customers",
+        "Finance team"
+      ],
+      "correctAnswer": "Customers"
+    },
+    {
+      "id": 17,
+      "text": "Which of the following technologies helps in identifying emerging risks?",
+      "options": [
+        "Artificial Intelligence (AI)",
+        "Social media",
+        "Call centers",
+        "Print advertisements"
+      ],
+      "correctAnswer": "Artificial Intelligence (AI)"
+    },
+    {
+      "id": 18,
+      "text": "Risk management software integrates with which enterprise system?",
+      "options": [
+        "ERP (Enterprise Resource Planning)",
+        "CRM (Customer Relationship Management)",
+        "Both a & b",
+        "None of the above"
+      ],
+      "correctAnswer": "Both a & b"
+    },
+    {
+      "id": 19,
+      "text": "What is the main advantage of using risk management software?",
+      "options": [
+        "It automates risk identification and documentation",
+        "It eliminates all risks",
+        "It replaces human decision-making",
+        "It prevents financial losses"
+      ],
+      "correctAnswer": "It automates risk identification and documentation"
+    },
+    {
+      "id": 20,
+      "text": "What is Fault Tree Analysis (FTA) used for?",
+      "options": [
+        "Identifying the root cause of complex risks",
+        "Measuring financial losses",
+        "Conducting employee training",
+        "Improving customer service"
+      ],
+      "correctAnswer": "Identifying the root cause of complex risks"
+    }
+  ]
+}

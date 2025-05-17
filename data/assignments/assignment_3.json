@@ -1,0 +1,228 @@
+{
+  "id": "assignment_3",
+  "title": "Leveraging ERM Frameworks and Global Standards for Risk Management",
+  "dueDate": "2025-05-10T23:59:00+05:30",
+  "submittedOn": "2025-05-09T20:07:00+05:30",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the primary purpose of Enterprise Risk Management (ERM)?",
+      "options": [
+        "Maximizing organizational profits",
+        "Identifying and managing risks across an organization",
+        "Ensuring compliance with ISO standards",
+        "Reducing production costs"
+      ],
+      "correctAnswer": "Identifying and managing risks across an organization"
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is NOT a key component of an ERM framework?",
+      "options": [
+        "Risk Identification",
+        "Employee Satisfaction",
+        "Risk Assessment",
+        "Monitoring and Review"
+      ],
+      "correctAnswer": "Employee Satisfaction"
+    },
+    {
+      "id": 3,
+      "text": "What is the main benefit of implementing an ERM framework?",
+      "options": [
+        "Eliminating all risks",
+        "Reducing the need for strategic planning",
+        "Enhancing decision-making by identifying and mitigating risks",
+        "Avoiding financial audits"
+      ],
+      "correctAnswer": "Enhancing decision-making by identifying and mitigating risks"
+    },
+    {
+      "id": 4,
+      "text": "What does COSO stand for?",
+      "options": [
+        "Committee of Sponsoring Organizations",
+        "Corporate Oversight and Strategy Organization",
+        "Compliance and Security Operations",
+        "Control and Strategy Optimization"
+      ],
+      "correctAnswer": "Committee of Sponsoring Organizations"
+    },
+    {
+      "id": 5,
+      "text": "How does COSO ERM integrate with an organization\u2019s strategy?",
+      "options": [
+        "By replacing traditional financial audits",
+        "By aligning risk management with business objectives",
+        "By eliminating the need for risk analysis",
+        "By ensuring only financial risks are considered"
+      ],
+      "correctAnswer": "By aligning risk management with business objectives"
+    },
+    {
+      "id": 6,
+      "text": "What is a key benefit of implementing the COSO ERM framework?",
+      "options": [
+        "Reducing product costs",
+        "Enhancing risk awareness and decision-making",
+        "Eliminating all business risks",
+        "Increasing regulatory requirements"
+      ],
+      "correctAnswer": "Enhancing risk awareness and decision-making"
+    },
+    {
+      "id": 7,
+      "text": "What is ISO 31000 primarily used for?",
+      "options": [
+        "Setting quality control measures",
+        "Providing guidelines for enterprise risk management",
+        "Auditing financial transactions",
+        "Standardizing employee training programs"
+      ],
+      "correctAnswer": "Providing guidelines for enterprise risk management"
+    },
+    {
+      "id": 8,
+      "text": "Which of the following is NOT a principle of ISO 31000?",
+      "options": [
+        "Structured and Comprehensive Approach",
+        "Inclusive Participation",
+        "Profit Maximization",
+        "Continuous Improvement"
+      ],
+      "correctAnswer": "Profit Maximization"
+    },
+    {
+      "id": 9,
+      "text": "Which key element of ISO 31000 ensures that risk management is embedded into an organization\u2019s processes?",
+      "options": [
+        "Risk Assessment",
+        "Risk Identification",
+        "Integration into Organizational Governance",
+        "Financial Reporting"
+      ],
+      "correctAnswer": "Integration into Organizational Governance"
+    },
+    {
+      "id": 10,
+      "text": "What does the ISO 31000 risk management process include?",
+      "options": [
+        "Establishing the context, risk identification, risk assessment, risk treatment, and monitoring",
+        "Only risk treatment and assessment",
+        "Ignoring minor risks and addressing only major threats",
+        "Implementing strict regulations without monitoring"
+      ],
+      "correctAnswer": "Establishing the context, risk identification, risk assessment, risk treatment, and monitoring"
+    },
+    {
+      "id": 11,
+      "text": "A key difference between COSO ERM and ISO 31000 is:",
+      "options": [
+        "COSO ERM is only used in finance, while ISO 31000 applies to all industries",
+        "ISO 31000 provides general guidelines, while COSO ERM is a detailed framework",
+        "ISO 31000 only applies to large enterprises",
+        "COSO ERM does not consider governance in risk management"
+      ],
+      "correctAnswer": "ISO 31000 provides general guidelines, while COSO ERM is a detailed framework"
+    },
+    {
+      "id": 12,
+      "text": "The Basel Accords focus primarily on managing which type of risk?",
+      "options": [
+        "Operational Risk",
+        "Financial and Banking Risk",
+        "Supply Chain Risk",
+        "Cybersecurity Risk"
+      ],
+      "correctAnswer": "Financial and Banking Risk"
+    },
+    {
+      "id": 13,
+      "text": "Which organization oversees the Basel Accords?",
+      "options": [
+        "World Trade Organization (WTO)",
+        "International Monetary Fund (IMF)",
+        "Basel Committee on Banking Supervision (BCBS)",
+        "United Nations (UN)"
+      ],
+      "correctAnswer": "Basel Committee on Banking Supervision (BCBS)"
+    },
+    {
+      "id": 14,
+      "text": "What is ISO 9001 primarily focused on?",
+      "options": [
+        "Financial risk management",
+        "Environmental sustainability",
+        "Quality Management Systems (QMS)",
+        "Cybersecurity"
+      ],
+      "correctAnswer": "Quality Management Systems (QMS)"
+    },
+    {
+      "id": 15,
+      "text": "Which ISO standard introduced risk-based thinking?",
+      "options": [
+        "ISO 9001:2008",
+        "ISO 9001:2015",
+        "ISO 31000:2009",
+        "ISO 27001"
+      ],
+      "correctAnswer": "ISO 9001:2015"
+    },
+    {
+      "id": 16,
+      "text": "What is the relationship between risk and opportunity in ISO 9001?",
+      "options": [
+        "Risk must be eliminated, and opportunity ignored",
+        "Risk and opportunity are separate concepts",
+        "Identifying risks helps organizations find opportunities for improvement",
+        "Only negative risks should be considered"
+      ],
+      "correctAnswer": "Identifying risks helps organizations find opportunities for improvement"
+    },
+    {
+      "id": 17,
+      "text": "Which ERM framework is best known for integrating risk management with performance?",
+      "options": [
+        "ISO 9001",
+        "COSO ERM",
+        "Basel Accords",
+        "NIST Cybersecurity Framework"
+      ],
+      "correctAnswer": "COSO ERM"
+    },
+    {
+      "id": 18,
+      "text": "What is a primary advantage of integrating ERM frameworks with business strategy?",
+      "options": [
+        "Reducing business expenses",
+        "Enhancing risk awareness and resilience",
+        "Eliminating competition",
+        "Avoiding regulatory compliance"
+      ],
+      "correctAnswer": "Enhancing risk awareness and resilience"
+    },
+    {
+      "id": 19,
+      "text": "Which risk management tool is commonly used in ISO 9001?",
+      "options": [
+        "Failure Modes and Effects Analysis (FMEA)",
+        "Basel III Capital Requirements",
+        "Sarbanes-Oxley Act (SOX)",
+        "SWOT Analysis"
+      ],
+      "correctAnswer": "Failure Modes and Effects Analysis (FMEA)"
+    },
+    {
+      "id": 20,
+      "text": "What is a common challenge in implementing ERM frameworks?",
+      "options": [
+        "Lack of leadership commitment",
+        "Risk always being predictable",
+        "No need for continuous monitoring",
+        "Ignoring regulatory requirements"
+      ],
+      "correctAnswer": "Lack of leadership commitment"
+    }
+  ]
+}

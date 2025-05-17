@@ -1,0 +1,228 @@
+{
+  "id": "assignment_2",
+  "title": "Exploring the Spectrum of Risks in Organizations",
+  "dueDate": "2025-04-18T23:59:00+05:30",
+  "submittedOn": "2025-04-17T20:12:00+05:30",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is a primary impact of market competition as a strategic risk?",
+      "options": [
+        "Reduced production costs",
+        "Decreased customer demand",
+        "Higher employee satisfaction",
+        "Lower regulatory requirements"
+      ],
+      "correctAnswer": "Decreased customer demand"
+    },
+    {
+      "id": 2,
+      "text": "How can businesses mitigate economic risk?",
+      "options": [
+        "Avoid international markets",
+        "Diversify revenue streams",
+        "Reduce employee wages",
+        "Stop all investments"
+      ],
+      "correctAnswer": "Diversify revenue streams"
+    },
+    {
+      "id": 3,
+      "text": "Which factor is a major regulatory and policy risk?",
+      "options": [
+        "Changing consumer preferences",
+        "Increased advertising spending",
+        "New government regulations",
+        "Employee turnover"
+      ],
+      "correctAnswer": "New government regulations"
+    },
+    {
+      "id": 4,
+      "text": "What is a common cause of process failures in organizations?",
+      "options": [
+        "Overly strict government regulations",
+        "Inefficient workflow and human error",
+        "A strong supply chain network",
+        "Increased employee benefits"
+      ],
+      "correctAnswer": "Inefficient workflow and human error"
+    },
+    {
+      "id": 5,
+      "text": "Human factors as an operational risk include:",
+      "options": [
+        "Natural disasters",
+        "Employee errors and absenteeism",
+        "Increased automation",
+        "High stock market volatility"
+      ],
+      "correctAnswer": "Employee errors and absenteeism"
+    },
+    {
+      "id": 6,
+      "text": "Which factor is a major risk in supply chain management?",
+      "options": [
+        "Stable supplier relationships",
+        "Disruptions due to geopolitical conflicts",
+        "Increased warehouse capacity",
+        "Predictable transportation schedules"
+      ],
+      "correctAnswer": "Disruptions due to geopolitical conflicts"
+    },
+    {
+      "id": 7,
+      "text": "Credit risk arises when:",
+      "options": [
+        "A company cannot pay dividends",
+        "Borrowers default on their obligations",
+        "The business has a strong cash flow",
+        "Interest rates decrease"
+      ],
+      "correctAnswer": "Borrowers default on their obligations"
+    },
+    {
+      "id": 8,
+      "text": "Liquidity risk means a company:",
+      "options": [
+        "Cannot meet its short-term financial obligations",
+        "Has excess cash reserves",
+        "Reduces production costs",
+        "Is increasing market share"
+      ],
+      "correctAnswer": "Cannot meet its short-term financial obligations"
+    },
+    {
+      "id": 9,
+      "text": "Investment risk can be reduced by:",
+      "options": [
+        "Investing in a single industry",
+        "Diversifying investments",
+        "Ignoring market trends",
+        "Avoiding any financial planning"
+      ],
+      "correctAnswer": "Diversifying investments"
+    },
+    {
+      "id": 10,
+      "text": "Operational risk in financial management is caused by:",
+      "options": [
+        "Strong accounting controls",
+        "Poor internal financial processes",
+        "High product demand",
+        "Increased investor confidence"
+      ],
+      "correctAnswer": "Poor internal financial processes"
+    },
+    {
+      "id": 11,
+      "text": "Regulatory non-compliance can result in:",
+      "options": [
+        "Increased brand reputation",
+        "Heavy fines and legal action",
+        "Higher employee retention",
+        "Stronger investor confidence"
+      ],
+      "correctAnswer": "Heavy fines and legal action"
+    },
+    {
+      "id": 12,
+      "text": "Intellectual property violations occur when:",
+      "options": [
+        "A company uses proprietary information without authorization",
+        "A business expands internationally",
+        "A competitor lowers prices",
+        "New employees are hired"
+      ],
+      "correctAnswer": "A company uses proprietary information without authorization"
+    },
+    {
+      "id": 13,
+      "text": "A common cause of contractual disputes is:",
+      "options": [
+        "Clear and detailed contract terms",
+        "Misinterpretation of agreement terms",
+        "Strong partnership relationships",
+        "Effective risk management"
+      ],
+      "correctAnswer": "Misinterpretation of agreement terms"
+    },
+    {
+      "id": 14,
+      "text": "Which of the following can damage a company\u2019s reputation?",
+      "options": [
+        "Effective crisis management",
+        "Negative social media coverage",
+        "Employee training programs",
+        "Transparent business practices"
+      ],
+      "correctAnswer": "Negative social media coverage"
+    },
+    {
+      "id": 15,
+      "text": "Customer experience as a reputational risk involves:",
+      "options": [
+        "Offering high-quality products and services",
+        "Negative reviews and customer complaints",
+        "Transparent refund policies",
+        "Increased customer engagement"
+      ],
+      "correctAnswer": "Negative reviews and customer complaints"
+    },
+    {
+      "id": 16,
+      "text": "What is a key effect of climate change on businesses?",
+      "options": [
+        "Increased market stability",
+        "Higher insurance costs and supply chain disruptions",
+        "Reduced government regulations",
+        "Improved production efficiency"
+      ],
+      "correctAnswer": "Higher insurance costs and supply chain disruptions"
+    },
+    {
+      "id": 17,
+      "text": "How can companies mitigate pollution risks?",
+      "options": [
+        "Ignore waste disposal regulations",
+        "Implement sustainable waste management practices",
+        "Increase fossil fuel consumption",
+        "Reduce workplace safety measures"
+      ],
+      "correctAnswer": "Implement sustainable waste management practices"
+    },
+    {
+      "id": 18,
+      "text": "What is the purpose of ransomware attacks?",
+      "options": [
+        "To offer free software upgrades",
+        "To encrypt company data and demand payment for decryption",
+        "To provide cybersecurity training",
+        "To improve IT infrastructure"
+      ],
+      "correctAnswer": "To encrypt company data and demand payment for decryption"
+    },
+    {
+      "id": 19,
+      "text": "Which is a common method used in phishing attacks?",
+      "options": [
+        "Secure cloud storage",
+        "Fake emails that appear to be from trusted sources",
+        "Strong password policies",
+        "Encrypted messaging systems"
+      ],
+      "correctAnswer": "Fake emails that appear to be from trusted sources"
+    },
+    {
+      "id": 20,
+      "text": "A major human capital risk is:",
+      "options": [
+        "Strong leadership succession planning",
+        "High employee turnover and skill shortages",
+        "Increasing employee engagement",
+        "Effective workplace safety policies"
+      ],
+      "correctAnswer": "High employee turnover and skill shortages"
+    }
+  ]
+}

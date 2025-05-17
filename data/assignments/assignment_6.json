@@ -1,0 +1,228 @@
+{
+  "id": "assignment_6",
+  "title": "Crafting Effective Risk Mitigation and Response Strategies",
+  "dueDate": "2025-05-12T00:00:00+05:30",
+  "submittedOn": "2025-05-11T22:18:00+05:30",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the primary goal of risk mitigation?",
+      "options": [
+        "To eliminate all risks completely",
+        "To reduce the likelihood of risks occurring and minimize their impact",
+        "To transfer all risks to third parties",
+        "To accept risks without taking action"
+      ],
+      "correctAnswer": "To reduce the likelihood of risks occurring and minimize their impact"
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is NOT a step in the risk mitigation process?",
+      "options": [
+        "Prioritizing risks based on severity and likelihood",
+        "Eliminating all business activities that create risk",
+        "Implementing mitigation measures",
+        "Monitoring effectiveness"
+      ],
+      "correctAnswer": "Eliminating all business activities that create risk"
+    },
+    {
+      "id": 3,
+      "text": "Risk reduction is defined as:",
+      "options": [
+        "Completely avoiding activities that create risk",
+        "Transferring risk to third parties through insurance",
+        "Implementing controls that decrease the likelihood or impact of risks",
+        "Accepting risks without taking action"
+      ],
+      "correctAnswer": "Implementing controls that decrease the likelihood or impact of risks"
+    },
+    {
+      "id": 4,
+      "text": "Which risk mitigation technique involves spreading risk across multiple areas?",
+      "options": [
+        "Risk reduction",
+        "Risk prevention",
+        "Risk limitation",
+        "Risk diversification"
+      ],
+      "correctAnswer": "Risk diversification"
+    },
+    {
+      "id": 5,
+      "text": "Early warning systems in risk mitigation primarily serve to:",
+      "options": [
+        "Eliminate risks entirely",
+        "Transfer risks to other parties",
+        "Provide alerts when risk indicators reach concerning levels",
+        "Replace other mitigation strategies"
+      ],
+      "correctAnswer": "Provide alerts when risk indicators reach concerning levels"
+    },
+    {
+      "id": 6,
+      "text": "Preventive controls are implemented:",
+      "options": [
+        "After risk events occur",
+        "During risk events",
+        "Before risk events occur",
+        "Only when required by regulations"
+      ],
+      "correctAnswer": "Before risk events occur"
+    },
+    {
+      "id": 7,
+      "text": "Which of the following is an example of a detective control?",
+      "options": [
+        "Firewall protection",
+        "Safety training",
+        "Quality inspections",
+        "Disaster recovery plans"
+      ],
+      "correctAnswer": "Quality inspections"
+    },
+    {
+      "id": 8,
+      "text": "Corrective controls are primarily designed to:",
+      "options": [
+        "Prevent risks from occurring",
+        "Identify when risks are materializing",
+        "Minimize damage after risk events",
+        "Guide behaviors to reduce risk"
+      ],
+      "correctAnswer": "Minimize damage after risk events"
+    },
+    {
+      "id": 9,
+      "text": "The concept of \"tactical flexibility within strategic discipline\" in risk mitigation refers to:",
+      "options": [
+        "Avoiding all strategic planning",
+        "Having a clear framework while allowing for situational adjustments",
+        "Focusing only on tactical responses",
+        "Delegating all mitigation responsibilities to technical teams"
+      ],
+      "correctAnswer": "Having a clear framework while allowing for situational adjustments"
+    },
+    {
+      "id": 10,
+      "text": "How does risk mitigation relate to business continuity planning (BCP)?",
+      "options": [
+        "They are completely unrelated disciplines",
+        "Risk mitigation replaces the need for BCP",
+        "Risk mitigation focuses on prevention while BCP addresses maintaining operations when risks materialize",
+        "BCP is only necessary for financial institutions"
+      ],
+      "correctAnswer": "Risk mitigation focuses on prevention while BCP addresses maintaining operations when risks materialize"
+    },
+    {
+      "id": 11,
+      "text": "Which risk mitigation strategy guides behaviors to reduce risk?",
+      "options": [
+        "Preventive controls",
+        "Detective controls",
+        "Corrective controls",
+        "Directive controls"
+      ],
+      "correctAnswer": "Directive controls"
+    },
+    {
+      "id": 12,
+      "text": "Successful organizations view risk mitigation as:",
+      "options": [
+        "An isolated activity independent of other business functions",
+        "Part of a comprehensive approach to organizational resilience",
+        "Only necessary for high-risk industries",
+        "A regulatory requirement with no business value"
+      ],
+      "correctAnswer": "Part of a comprehensive approach to organizational resilience"
+    },
+    {
+      "id": 13,
+      "text": "What distinguishes risk mitigation from risk avoidance?",
+      "options": [
+        "Risk mitigation eliminates all risks while risk avoidance reduces them",
+        "Risk mitigation reduces risks while allowing business activities to continue, whereas risk avoidance eliminates activities that create risk",
+        "They are identical strategies",
+        "Risk mitigation is only applicable to financial risks"
+      ],
+      "correctAnswer": "Risk mitigation reduces risks while allowing business activities to continue, whereas risk avoidance eliminates activities that create risk"
+    },
+    {
+      "id": 14,
+      "text": "The first step in the mitigation process is typically:",
+      "options": [
+        "Implementing mitigation measures",
+        "Developing specific mitigation strategies",
+        "Prioritizing risks based on severity and likelihood",
+        "Adjusting approaches as necessary"
+      ],
+      "correctAnswer": "Prioritizing risks based on severity and likelihood"
+    },
+    {
+      "id": 15,
+      "text": "Which of the following is an example of risk limitation?",
+      "options": [
+        "Implementing a quality control process",
+        "Purchasing insurance",
+        "Placing limits on investment amounts",
+        "Conducting employee safety training"
+      ],
+      "correctAnswer": "Placing limits on investment amounts"
+    },
+    {
+      "id": 16,
+      "text": "The effectiveness of risk mitigation strategies should be:",
+      "options": [
+        "Assumed without verification",
+        "Checked only after a risk event occurs",
+        "Monitored regularly and adjusted as necessary",
+        "Evaluated only during annual audits"
+      ],
+      "correctAnswer": "Monitored regularly and adjusted as necessary"
+    },
+    {
+      "id": 17,
+      "text": "In the context of mitigation strategies, what are \"fail-safes\"?",
+      "options": [
+        "Insurance policies",
+        "Mechanisms designed to prevent catastrophic failure",
+        "Backup generators",
+        "Risk registers"
+      ],
+      "correctAnswer": "Mechanisms designed to prevent catastrophic failure"
+    },
+    {
+      "id": 18,
+      "text": "Which type of control identifies when risks are materializing?",
+      "options": [
+        "Preventive controls",
+        "Detective controls",
+        "Corrective controls",
+        "Directive controls"
+      ],
+      "correctAnswer": "Detective controls"
+    },
+    {
+      "id": 19,
+      "text": "Risk mitigation strategies should be:",
+      "options": [
+        "Fixed and unchanging once implemented",
+        "Modified only after major incidents",
+        "Flexible and adaptable as risk profiles change",
+        "Completely redesigned annually"
+      ],
+      "correctAnswer": "Flexible and adaptable as risk profiles change"
+    },
+    {
+      "id": 20,
+      "text": "The relationship between business continuity planning and risk mitigation can best be described as:",
+      "options": [
+        "Competitive",
+        "Complementary",
+        "Optional",
+        "Redundant"
+      ],
+      "correctAnswer": "Complementary"
+    }
+  ]
+}

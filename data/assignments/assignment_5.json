@@ -1,0 +1,228 @@
+{
+  "id": "assignment_5",
+  "title": "Mastering Risk Assessment Techniques for Effective Decision-Making",
+  "dueDate": "2025-05-12T23:59:00+05:30",
+  "submittedOn": "2025-05-11T22:17:00+05:30",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is the primary purpose of risk assessment in decision-making?",
+      "options": [
+        "To eliminate all potential risks",
+        "To provide a structured approach to understanding uncertainty",
+        "To predict future events with complete accuracy",
+        "To ensure compliance with government regulations"
+      ],
+      "correctAnswer": "To provide a structured approach to understanding uncertainty"
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is NOT one of the key elements of risk assessment?",
+      "options": [
+        "Risk identification",
+        "Risk analysis",
+        "Risk elimination",
+        "Risk evaluation"
+      ],
+      "correctAnswer": "Risk elimination"
+    },
+    {
+      "id": 3,
+      "text": "In a risk matrix, where would high-priority risks requiring immediate attention typically be located?",
+      "options": [
+        "Lower left (low likelihood, low impact)",
+        "Upper left (low likelihood, high impact)",
+        "Lower right (high likelihood, low impact)",
+        "Upper right (high likelihood, high impact)"
+      ],
+      "correctAnswer": "Upper right (high likelihood, high impact)"
+    },
+    {
+      "id": 4,
+      "text": "The Delphi Method is primarily used in which risk assessment technique?",
+      "options": [
+        "Monte Carlo simulation",
+        "Expert judgment",
+        "Sensitivity analysis",
+        "Decision tree analysis"
+      ],
+      "correctAnswer": "Expert judgment"
+    },
+    {
+      "id": 5,
+      "text": "Which quantitative risk assessment technique uses random sampling to model the probability of different outcomes when uncertainty exists?",
+      "options": [
+        "Decision trees",
+        "Bayesian networks",
+        "Monte Carlo simulation",
+        "Value at Risk (VaR)"
+      ],
+      "correctAnswer": "Monte Carlo simulation"
+    },
+    {
+      "id": 6,
+      "text": "Value at Risk (VaR) primarily quantifies:",
+      "options": [
+        "The minimum expected profit over a defined period",
+        "The maximum potential loss over a defined period for a given confidence interval",
+        "The average return on investment for a portfolio",
+        "The total operational risk exposure of an organization"
+      ],
+      "correctAnswer": "The maximum potential loss over a defined period for a given confidence interval"
+    },
+    {
+      "id": 7,
+      "text": "Which of the following is a characteristic of qualitative risk assessment?",
+      "options": [
+        "Provides precise numerical measurements",
+        "Typically requires extensive statistical expertise",
+        "Often relies on expert judgment and stakeholder perceptions",
+        "Always produces more accurate results than quantitative methods"
+      ],
+      "correctAnswer": "Often relies on expert judgment and stakeholder perceptions"
+    },
+    {
+      "id": 8,
+      "text": "Which of the following is NOT typically included in an operational risk management framework?",
+      "options": [
+        "Identifying risks across key processes",
+        "Assessing likelihood and impact using standardized metrics",
+        "Eliminating all potential risks",
+        "Monitoring key risk indicators (KRIs)"
+      ],
+      "correctAnswer": "Eliminating all potential risks"
+    },
+    {
+      "id": 9,
+      "text": "Strategic risk appetite refers to:",
+      "options": [
+        "The organization's desire to pursue high-risk ventures",
+        "The minimum return required for any investment",
+        "The amount and type of risk an organization is willing to accept in pursuit of its objectives",
+        "The maximum loss an organization can sustain before bankruptcy"
+      ],
+      "correctAnswer": "The amount and type of risk an organization is willing to accept in pursuit of its objectives"
+    },
+    {
+      "id": 10,
+      "text": "Risk-Adjusted Return on Capital (RAROC) is calculated as:",
+      "options": [
+        "Expected Return \u00d7 Economic Capital",
+        "Expected Return / Economic Capital",
+        "Expected Return - Economic Capital",
+        "(Expected Return - Economic Capital) / Expected Return"
+      ],
+      "correctAnswer": "Expected Return / Economic Capital"
+    },
+    {
+      "id": 11,
+      "text": "Which behavioral bias describes the tendency to overestimate one's knowledge or ability to predict outcomes?",
+      "options": [
+        "Anchoring bias",
+        "Confirmation bias",
+        "Overconfidence bias",
+        "Loss aversion"
+      ],
+      "correctAnswer": "Overconfidence bias"
+    },
+    {
+      "id": 12,
+      "text": "In the context of risk assessment, what does sensitivity analysis examine?",
+      "options": [
+        "The emotional sensitivity of decision-makers to various risks",
+        "How changes in input variables affect outcomes",
+        "The sensitivity of confidential information being exposed",
+        "The market's sensitivity to organizational changes"
+      ],
+      "correctAnswer": "How changes in input variables affect outcomes"
+    },
+    {
+      "id": 13,
+      "text": "Which risk assessment model is specifically designed to identify strengths, weaknesses, opportunities, and threats?",
+      "options": [
+        "PESTLE Analysis",
+        "SWOT Analysis",
+        "Bow-Tie Analysis",
+        "FMEA"
+      ],
+      "correctAnswer": "SWOT Analysis"
+    },
+    {
+      "id": 14,
+      "text": "What is a pre-mortem in the context of risk assessment and decision-making?",
+      "options": [
+        "A medical examination conducted before joining a risk management team",
+        "A technique where participants imagine a project has failed and explain why",
+        "A preliminary review of historical risk events",
+        "A mandatory first step in any risk assessment process"
+      ],
+      "correctAnswer": "A technique where participants imagine a project has failed and explain why"
+    },
+    {
+      "id": 15,
+      "text": "Which of the following is NOT a common type of Value at Risk (VaR) calculation?",
+      "options": [
+        "Historical VaR",
+        "Parametric VaR",
+        "Monte Carlo VaR",
+        "Qualitative VaR"
+      ],
+      "correctAnswer": "Qualitative VaR"
+    },
+    {
+      "id": 16,
+      "text": "The Sharpe Ratio is calculated as:",
+      "options": [
+        "Expected Return \u00f7 Standard Deviation of Returns",
+        "(Expected Return - Risk-Free Rate) \u00f7 Standard Deviation of Returns",
+        "Expected Return \u00d7 Standard Deviation of Returns",
+        "(Expected Return - Risk-Free Rate) \u00d7 Standard Deviation of Returns"
+      ],
+      "correctAnswer": "(Expected Return - Risk-Free Rate) \u00f7 Standard Deviation of Returns"
+    },
+    {
+      "id": 17,
+      "text": "Key Risk Indicators (KRIs) are best described as:",
+      "options": [
+        "Lagging indicators that measure past risk events",
+        "Leading indicators that provide early warning of changing risk profiles",
+        "Constant metrics that remain stable regardless of business conditions",
+        "Regulatory requirements that must be reported to authorities"
+      ],
+      "correctAnswer": "Leading indicators that provide early warning of changing risk profiles"
+    },
+    {
+      "id": 18,
+      "text": "Which of the following is NOT one of the common risk assessment models mentioned in the text?",
+      "options": [
+        "ISO 31000",
+        "FMEA (Failure Mode and Effects Analysis)",
+        "Six Sigma",
+        "Bow-Tie Analysis"
+      ],
+      "correctAnswer": "Six Sigma"
+    },
+    {
+      "id": 19,
+      "text": "What is the primary difference between qualitative and quantitative risk assessment?",
+      "options": [
+        "Qualitative assessment is always faster but never accurate",
+        "Quantitative assessment uses numerical values rather than descriptive categories",
+        "Qualitative assessment can only be performed by certified risk managers",
+        "Quantitative assessment always requires specialized software"
+      ],
+      "correctAnswer": "Quantitative assessment uses numerical values rather than descriptive categories"
+    },
+    {
+      "id": 20,
+      "text": "Which cognitive bias describes the tendency to prefer avoiding losses over acquiring equivalent gains?",
+      "options": [
+        "Recency bias",
+        "Confirmation bias",
+        "Loss aversion",
+        "Anchoring bias"
+      ],
+      "correctAnswer": "Loss aversion"
+    }
+  ]
+}
