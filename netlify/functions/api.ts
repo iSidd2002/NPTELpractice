@@ -42,20 +42,6 @@ const handler: Handler = async (event) => {
       };
     }
 
-    if (path.startsWith('/assignments/')) {
-      const id = path.split('/')[2];
-      const filePath = join(assignmentsDir, `${id}.json`);
-      const data = await readJsonFile(filePath);
-      return {
-        statusCode: 200,
-        body: JSON.stringify(data),
-        headers: {
-          'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': '*',
-        },
-      };
-    }
-
     if (path.startsWith('/assignments/') && path.endsWith('/submit')) {
       const id = path.split('/')[2];
       const { answers } = JSON.parse(event.body || '{}');
@@ -77,6 +63,20 @@ const handler: Handler = async (event) => {
           correctAnswers,
           scorePercent
         }),
+        headers: {
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*',
+        },
+      };
+    }
+
+    if (path.startsWith('/assignments/')) {
+      const id = path.split('/')[2];
+      const filePath = join(assignmentsDir, `${id}.json`);
+      const data = await readJsonFile(filePath);
+      return {
+        statusCode: 200,
+        body: JSON.stringify(data),
         headers: {
           'Content-Type': 'application/json',
           'Access-Control-Allow-Origin': '*',
