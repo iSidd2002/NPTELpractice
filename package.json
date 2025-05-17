@@ -4,7 +4,7 @@
   "description": "A minimal JSON-driven quiz application",
   "type": "module",
   "scripts": {
-    "start": "node dist/server/index.js",
+    "start": "node dist/server/server/index.js",
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
     "dev:server": "tsx watch src/server/index.ts",
     "dev:client": "vite",
