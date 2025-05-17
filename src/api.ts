@@ -1,5 +1,5 @@
 const API_BASE = import.meta.env.PROD
-  ? '/api/api'
+  ? '/api'
   : 'http://localhost:3000/api';
 
 export async function fetchAssignments() {

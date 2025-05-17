@@ -3,9 +3,10 @@ import cors from 'cors';
 import { promises as fs } from 'fs';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
+import path from 'path';
 
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 const port = 3000;
@@ -108,6 +109,19 @@ app.post('/api/assignments/:id/submit', async (req, res) => {
   } catch (error) {
     console.error('Error processing submission:', error);
     res.status(400).json({ error: 'Failed to process submission' });
+  }
+});
+
+// Serve static files from the dist directory
+app.use(express.static(path.join(__dirname, '../../dist')));
+
+// SPA fallback: serve index.html for any non-API route
+app.get('*', (req, res) => {
+  // Only fallback for non-API routes
+  if (!req.path.startsWith('/api')) {
+    res.sendFile(path.join(__dirname, '../../dist', 'index.html'));
+  } else {
+    res.status(404).json({ error: 'API route not found' });
   }
 });
 
