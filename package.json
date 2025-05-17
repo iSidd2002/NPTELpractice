@@ -4,12 +4,12 @@
   "description": "A minimal JSON-driven quiz application",
   "type": "module",
   "scripts": {
-    "start": "node dist/server/server/index.js",
+    "start": "node dist/server/index.js",
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
     "dev:server": "tsx watch src/server/index.ts",
     "dev:client": "vite",
-    "build": "tsc && vite build",
-    "build:server": "tsc"
+    "build": "npm run build:server && vite build",
+    "build:server": "tsc --project tsconfig.server.json"
   },
   "dependencies": {
     "cors": "^2.8.5",
